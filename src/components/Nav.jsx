@@ -25,10 +25,10 @@ const Nav = () => {
       </div>
       <div className="menu">
         <img
-          width="50"
-          height="50"
-          src="https://img.icons8.com/ios/50/climbing-shoes.png"
-          alt="climbing-shoes"
+          width="45"
+          height="45"
+          src="https://img.icons8.com/cotton/64/sneakers--v2.png"
+          alt="sneakers--v2"
         />
       </div>
     </div>

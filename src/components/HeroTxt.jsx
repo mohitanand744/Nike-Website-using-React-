@@ -5,7 +5,7 @@ const HeroTxt = () => {
   return (
     <div className="text">
       <p className="Brand">Nike Mercurial</p>
-      <h1>Nike Air Max 270</h1>
+      <h1>Nike Air Max</h1>
       <p className="details">
         Step up your game with Nike's latest collection. Whether you're hitting
         the gym or the streets, our shoes offer unparalleled comfort and style.
