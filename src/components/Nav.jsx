@@ -25,8 +25,6 @@ const Nav = () => {
       </div>
       <div className="menu">
         <img
-          width="45"
-          height="45"
           src="https://img.icons8.com/cotton/64/sneakers--v2.png"
           alt="sneakers--v2"
         />
